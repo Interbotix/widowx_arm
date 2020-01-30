@@ -9,6 +9,6 @@
   <buildtool_depend>catkin</buildtool_depend>
   
   <run_depend>widowx_arm_description</run_depend>
-  <run_depend>widowx_arm_ikfast_plugin</run_depend>
+  <run_depend>widowx_arm_widowx_arm_ikfast_plugin</run_depend>
   <run_depend>widowx_arm_moveit_config</run_depend>
 </package>
