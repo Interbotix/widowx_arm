@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<library path="lib/libwidowx_arm_widowx_arm_moveit_ikfast_plugin">
+  <class base_class_type="kinematics::KinematicsBase" name="widowx_arm_widowx_arm/IKFastKinematicsPlugin" type="widowx_arm_widowx_arm::IKFastKinematicsPlugin">
+    <description>IKFast61 plugin for closed-form kinematics of widowx_arm widowx_arm</description>
+  </class>
+</library>
