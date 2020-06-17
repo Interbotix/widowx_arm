@@ -206,7 +206,7 @@
          <parent link="${prefix}arm_base_link" />
          <child link="${prefix}shoulder_link" />
          <axis xyz="0 0 1" />
-         <limit lower="-2.617" upper="2.617" effort="6" velocity="0.785" />
+	 <limit lower="-${M_PI}" upper="${M_PI}" effort="6" velocity="0.785" />
       </joint>
       <joint name="${prefix}joint_2" type="revolute">
          <!--origin xyz="0.04825 0 0.14203" rpy="0 0 0" /-->
